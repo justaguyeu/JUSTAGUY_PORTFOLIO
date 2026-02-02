@@ -1,6 +1,54 @@
-# 💫 About Me:
-I go by justaguy — a multidisciplinary developer and designer focused on building clean, scalable, and user-centered digital products.<br><br>I work across:<br><br>Frontend (React, Next.js, modern UI systems)<br><br>Backend (APIs, databases, authentication)<br><br>Mobile apps & web applications<br><br>Software systems
+👋 Hi, I’m justaguy
 
+I go by justaguy — a multidisciplinary developer and designer focused on building clean, scalable, and user-centered digital products. I enjoy turning ideas into reliable software by combining solid engineering, thoughtful UI/UX, and clear visual design.
+
+💻 What I Do
+
+I work across multiple areas of modern development:
+
+Frontend Development
+Building responsive, accessible, and high-performance user interfaces using React, Next.js, and modern UI systems.
+
+Backend Development
+Designing and implementing secure, scalable APIs, databases, and authentication systems with a focus on maintainability and performance.
+
+Mobile & Web Applications
+Developing cross-platform mobile apps and robust web applications that deliver consistent, intuitive user experiences.
+
+Software Systems
+Architecting and building reliable software solutions that support real-world business needs and long-term growth.
+
+UI/UX & Graphic Design
+Creating user-centered designs, clear visual identities, and interfaces that balance usability with aesthetics.
+
+🧠 What I Care About
+
+Clean, readable, and maintainable code
+
+Scalable system architecture
+
+Performance and security
+
+User experience over unnecessary complexity
+
+Design that serves a clear purpose
+
+🚀 Current Focus
+
+Full-stack web applications
+
+Scalable backend systems
+
+Design-driven development
+
+🛠 Tech Stack
+
+Frontend: React, Next.js, HTML, CSS, JavaScript, TypeScript
+Backend: Django, Node.js, REST APIs
+Databases: PostgreSQL, MySQL
+Design: Figma, Adobe Creative Suite
+
+Simple code. Thoughtful design. Real-world impact.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justaguyeu) 
@@ -22,3 +70,4 @@ I go by justaguy — a multidisciplinary developer and designer focused on build
 [![](https://visitcount.itsvg.in/api?id=justaguyeu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
